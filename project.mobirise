@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Line Ware | Main",
+    "name": "USCN LIVE| Main",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -55,15 +55,18 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://lineware.co.uk/sitemap.xml",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/linewarelogo1-128x128_2.png",
-    "mbrsiteDomain": "kg3angnapb",
+    "favicon": false,
+    "mbrsiteDomain": "ngeakefeiu",
     "usedWebp": false,
     "robotsSwitcher": false,
     "cookiesAlert": false,
     "gdpr": false,
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "chatbutton": {},
+    "cssOptimize": false,
+    "lazyLoad": false
   },
   "pages": {
     "index.html": {
@@ -74,7 +77,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/linewarelogo1-2000x2000.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/copy%2520of%2520lwg-2000x2000.png"
       },
       "components": [
         {
